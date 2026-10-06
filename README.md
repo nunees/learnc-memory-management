@@ -15,7 +15,7 @@ realloc`, and `free` for dynamic memory management.
 2. **Memory Setting**: Understand how to set memory using functions like `memset`, and when to use them.
 3. **Memory Comparison**: Learn how to compare memory blocks using functions like `memcmp`, and understand the implications of comparing memory in C.
 4. **Memory Alignment**: Understand the concept of memory alignment, how it affects performance, and how to ensure proper alignment in your C programs.
-5. **Memory Mapping**: Learn about memory-mapped files and how to use them in C for efficient file I/O operations.
+5. [**Memory Mapping**](M00/M00-5-memory-mapped/basics.md): Learn about memory-mapped files and how to use them in C for efficient file I/O operations.
 
 ### Memory Operators (MO1)
 
