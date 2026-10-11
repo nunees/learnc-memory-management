@@ -1,3 +1,6 @@
+// This tells the compiler to use 1 byte aligment
+//#pragma pack(1)
+
 #include <stdio.h>
 #include <stddef.h>
 
